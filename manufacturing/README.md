@@ -1,2 +1,2 @@
-# Manufacturing
+# 🛠 Manufacturing
 

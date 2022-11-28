@@ -1,2 +1,2 @@
-# Buying
+# 💰 Buying
 
