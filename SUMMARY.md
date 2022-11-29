@@ -4,7 +4,7 @@
   * [Pengantar](introduction/first.md)
   * [Alur Aplikasi](introduction/alur-aplikasi.md)
   * [Konsep](introduction/konsep.md)
-* [⚙ System Settings](system-settings.md)
+* [⚙ System Configuration](system-configuration.md)
 * [📈 Accounts](accounts/README.md)
   * [Pengantar](accounts/pengantar.md)
   * [General Flow](accounts/general-flow.md)
