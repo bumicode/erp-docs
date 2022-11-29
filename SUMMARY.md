@@ -1,9 +1,10 @@
 # Table of contents
 
-* [ℹ Introduction](README.md)
+* [ℹ Welcome](README.md)
   * [Pengantar](introduction/first.md)
   * [Alur Aplikasi](introduction/alur-aplikasi.md)
   * [Konsep](introduction/konsep.md)
+* [⚙ System Settings](system-settings.md)
 * [📈 Accounts](accounts/README.md)
   * [Pengantar](accounts/pengantar.md)
   * [General Flow](accounts/general-flow.md)
