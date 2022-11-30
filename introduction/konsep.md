@@ -58,3 +58,55 @@
 
 ## Inventory
 
+### Warehouse
+
+### Stock Entry
+
+### Delivery Note
+
+### Purchase Receipt
+
+### ~~Serial Number~~
+
+### ~~Batch~~
+
+### Stock Ledger Entry
+
+### Stock Reconciliation
+
+### Quality Inspection
+
+### Item Group
+
+### Unit of Mwasure (UOM)
+
+## Human Resouce Management
+
+### Employe
+
+### Leave Application
+
+### Leave Type
+
+### Payroll Entry
+
+### Salary Slip
+
+### Salary Structure
+
+### Appraisal
+
+### Appraisal Template
+
+### Attendance
+
+## Manufacturing
+
+### Bill of Material (BOM)
+
+### Workstation
+
+### Work Order
+
+### Production Planning Tool
+
