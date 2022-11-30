@@ -1,6 +1,6 @@
-# Konsep
+# Concept
 
-## Konsep Dasar
+## Basic Concepts
 
 ### **Company**
 
@@ -109,4 +109,3 @@
 ### Work Order
 
 ### Production Planning Tool
-
