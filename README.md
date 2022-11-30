@@ -1,8 +1,8 @@
 # ℹ Welcome
 
-Selamat datang di Dokumentasi ERP Official.
+Selamat datang di Dokumentasi Resmi BUM;CODE ERP.
 
-Dokumentasi ERP secara _default_ menggunakan Bahasa Indonesia.
+Dokumentasi ERP secara bawaan menggunakan Bahasa Indonesia.
 
 ### Dokumentasi Lainnya
 
