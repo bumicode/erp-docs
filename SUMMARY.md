@@ -1,7 +1,7 @@
 # Table of contents
 
 * [ℹ Welcome](README.md)
-  * [Pengantar](introduction/first.md)
+  * [Pengantar](readme/introduction.md)
   * [Alur Aplikasi](introduction/alur-aplikasi.md)
   * [Konsep](introduction/konsep.md)
 * [📍 Getting Started](getting-started/README.md)
@@ -35,9 +35,9 @@
 * [🛒 Selling](selling/README.md)
   * [Pengantar](selling/pengantar.md)
   * [General Flow](selling/general-flow.md)
-* [📦 Inventory](stock/README.md)
-  * [Pengantar](stock/pengantar.md)
-  * [General Flow](stock/general-flow.md)
+* [📦 Inventory](inventory/README.md)
+  * [Pengantar](inventory/pengantar.md)
+  * [General Flow](inventory/general-flow.md)
 * [⚙ System](system.md)
 * [📐 Project](project/README.md)
   * [Pengantar](project/pengantar.md)
