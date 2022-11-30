@@ -35,7 +35,7 @@
 * [🛒 Selling](selling/README.md)
   * [Pengantar](selling/pengantar.md)
   * [General Flow](selling/general-flow.md)
-* [📦 Stock](stock/README.md)
+* [📦 Inventory](stock/README.md)
   * [Pengantar](stock/pengantar.md)
   * [General Flow](stock/general-flow.md)
 * [⚙ System](system.md)
