@@ -1,7 +1,15 @@
 # Konsep
 
-#### Dokumentasi Database
+## Konsep Dasar
 
-Dokumentasi database bisa dilihat pada [**tautan ini**](https://dbdocs.io/mohamadsyalvasr/bumicode\_erp)****
+### **Company**
 
-#### Konsep Dasar
+### Customer
+
+### Supplier
+
+### Item
+
+### Account
+
+### Contact
